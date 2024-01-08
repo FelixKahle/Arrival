@@ -1,0 +1,6 @@
+[submodule "src/thirdparty/qtcsv"]
+	path = src/thirdparty/qtcsv
+	url = https://github.com/iamantony/qtcsv.git
+[submodule "src/thirdparty/QXlsx"]
+	path = src/thirdparty/QXlsx
+	url = https://github.com/QtExcel/QXlsx.git
